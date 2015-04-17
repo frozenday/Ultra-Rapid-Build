@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ultra Rapid Build</string>
+    <string name="action_settings">Settings</string>
+    <string name="champ_name"> </string>
+    <string name="champ_desc"> </string>
+    <string name="item0_name"> </string>
+    <string name="item0_desc"> </string>
+    <string name="item1_name"> </string>
+    <string name="item1_desc"> </string>
+    <string name="item2_name"> </string>
+    <string name="item2_desc"> </string>
+    <string name="item3_name"> </string>
+    <string name="item3_desc"> </string>
+    <string name="item4_name"> </string>
+    <string name="item4_desc"> </string>
+    <string name="item5_name"> </string>
+    <string name="item5_desc"> </string>
+    <string name="item6_name"> </string>
+    <string name="item6_desc"> </string>
+</resources>
