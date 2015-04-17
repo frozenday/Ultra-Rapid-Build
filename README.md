@@ -7,7 +7,7 @@ This Android application gets the popular builds for each champion in the featur
 
 The way the items were calculated was by iterating through a large set of static data in the Data.js file. There is limited data in the Data.js file so the items are not 100% accurate because of the limit with my API key. With more data in the Data.js file, the more accurate the items will be.
 
-It is based on whether the champion won, and if they won, what items did they buy. The reason for this is because there may be troll items and the win condition can help filter that out slightly. Players can use this application to help decide what items to buy for the champion they selected in Ultra Rapid Fire since they will no longer be playing the meta and they will get different items.
+It is based on whether the champion won, and if they won, what items did they buy. The reason for this is to ensure the effectiveness of the application to filter out unaccurate items. Players can use this application to help decide what items to buy for the champion they selected in Ultra Rapid Fire since they will no longer be playing the meta and they will get different items.
 
 **NOTE:** The asset folder is not committed to this repo because it contains my API key and because of security reasons. There is a "apikey.txt" file in the asset folder with the API key in the text in order for the code to run.
 
