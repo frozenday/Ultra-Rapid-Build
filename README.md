@@ -5,7 +5,7 @@ This is my submission for the Riot Games API challenge.
 
 This Android application gets the popular builds for each champion in the featured game mode Ultra Rapid Fire.
 
-The way the items were calculated was by iterating through a large set of static data in the Data.js file. There is limited data in the Data.js file so the items are not 100% accurate because of the limit with my API key. With more data in the Data.js file, the more accurate the items will be.
+The way the items were calculated was by iterating through a large set of static data in the Data.java file. There is limited data in the Data.java file so the items are not 100% accurate because of the limit with my API key. With more data in the Data.java file, the more accurate the items will be.
 
 It is based on whether the champion won, and if they won, what items did they buy. The reason for this is to ensure the effectiveness of the application to filter out unaccurate items. Players can use this application to help decide what items to buy for the champion they selected in Ultra Rapid Fire since they will no longer be playing the meta and they will get different items.
 
